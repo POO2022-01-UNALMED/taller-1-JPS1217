@@ -1,3 +1,6 @@
 Juan Sebastian Patiño Alvarez
 30
 aprender
+Ya la carpeta no esta vacia
+Por que se puede cruzar e incluso perder información si no se sabe resolver los conflictos
+
